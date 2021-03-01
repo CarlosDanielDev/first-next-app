@@ -1,7 +1,9 @@
+import * as S from '../styles/pages/Home';
+
 export default function Home() {
   return (
     <div>
-      <h1>Hello Next!</h1>
+      <S.Title>Hello Next!</S.Title>
     </div>
   )
 }
